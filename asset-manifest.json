@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e825d9a4.css",
-    "main.js": "/static/js/main.fa898f4a.js",
+    "main.css": "/static/css/main.bd5f2532.css",
+    "main.js": "/static/js/main.c9f8a3b6.js",
     "static/media/Library.png": "/static/media/Library.faabe1816de7e4d4cff5.png",
     "static/media/brgysanroque.png": "/static/media/brgysanroque.0cb5279482fe8b3a826e.png",
     "static/media/Bicycle.png": "/static/media/Bicycle.9f527427f708c1058d0e.png",
@@ -9,11 +9,11 @@
     "static/media/Tyer_CV.pdf": "/static/media/Tyer_CV.e014cc230067c93c5bd3.pdf",
     "static/media/tyer.jpg": "/static/media/tyer.e908ca74a9c17e6e01dd.jpg",
     "index.html": "/index.html",
-    "main.e825d9a4.css.map": "/static/css/main.e825d9a4.css.map",
-    "main.fa898f4a.js.map": "/static/js/main.fa898f4a.js.map"
+    "main.bd5f2532.css.map": "/static/css/main.bd5f2532.css.map",
+    "main.c9f8a3b6.js.map": "/static/js/main.c9f8a3b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e825d9a4.css",
-    "static/js/main.fa898f4a.js"
+    "static/css/main.bd5f2532.css",
+    "static/js/main.c9f8a3b6.js"
   ]
 }
