@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.bd5f2532.css",
-    "main.js": "/static/js/main.c9f8a3b6.js",
+    "main.js": "/static/js/main.a7f2d59f.js",
     "static/media/Library.png": "/static/media/Library.faabe1816de7e4d4cff5.png",
     "static/media/brgysanroque.png": "/static/media/brgysanroque.0cb5279482fe8b3a826e.png",
+    "static/media/tyer.jpg": "/static/media/tyer.c1c9f1f03a7e4b126fad.jpg",
     "static/media/Bicycle.png": "/static/media/Bicycle.9f527427f708c1058d0e.png",
     "static/media/sneakers_ecommerce.png": "/static/media/sneakers_ecommerce.938ab2e45637aa420d07.png",
-    "static/media/Tyer_CV.pdf": "/static/media/Tyer_CV.e014cc230067c93c5bd3.pdf",
-    "static/media/tyer.jpg": "/static/media/tyer.e908ca74a9c17e6e01dd.jpg",
+    "static/media/Tyer_Mercado_Resume.pdf": "/static/media/Tyer_Mercado_Resume.49acf1ac2cb1d7ed1826.pdf",
     "index.html": "/index.html",
     "main.bd5f2532.css.map": "/static/css/main.bd5f2532.css.map",
-    "main.c9f8a3b6.js.map": "/static/js/main.c9f8a3b6.js.map"
+    "main.a7f2d59f.js.map": "/static/js/main.a7f2d59f.js.map"
   },
   "entrypoints": [
     "static/css/main.bd5f2532.css",
-    "static/js/main.c9f8a3b6.js"
+    "static/js/main.a7f2d59f.js"
   ]
 }
