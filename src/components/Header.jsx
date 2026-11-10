@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import ME from "../assets/tyer.png";
+import ME from "../assets/tyer.jpg";
 import CV from "../assets/Tyer_CV.pdf";
 import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { HiOutlineLocationMarker } from "react-icons/hi";
-import { MdOutlineEmail } from "react-icons/md";
+import { MdOutlineEmail, MdVerified } from "react-icons/md";
 import { FiSun, FiMoon } from "react-icons/fi";
 
 const Header = () => {
@@ -25,8 +25,13 @@ const Header = () => {
 
         {/* Info */}
         <div className="flex flex-col gap-3 flex-1 pr-10">
-          <h1 className="text-[1.35rem] font-bold tracking-tight text-gray-900 dark:text-zinc-50 leading-tight">
+          <h1 className="flex items-center gap-1.5 sm:justify-start justify-center text-[1.35rem] font-bold tracking-tight text-gray-900 dark:text-zinc-50 leading-tight">
             Tyer Leinster Mercado
+            <MdVerified
+              className="text-[1.15rem] text-[#1877F2] flex-shrink-0"
+              aria-label="Verified"
+              title="Verified"
+            />
           </h1>
 
           <div className="flex items-center gap-2 flex-wrap sm:justify-start justify-center">
