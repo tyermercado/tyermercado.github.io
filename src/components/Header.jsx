@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ME from "../assets/tyer.jpg";
-import CV from "../assets/Tyer_CV.pdf";
+import CV from "../assets/Tyer_Mercado_Resume.pdf";
 import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { MdOutlineEmail, MdVerified } from "react-icons/md";
@@ -46,7 +46,7 @@ const Header = () => {
           </div>
 
           <div className="flex gap-2 flex-wrap sm:justify-start justify-center">
-            <a href={CV} download className="btn-primary">
+            <a href={CV} download="Tyer_Mercado_Resume.pdf" className="btn-primary">
               Download CV
             </a>
             <a href="mailto:leinster.tyer12@gmail.com" className="btn">
