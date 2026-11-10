@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e825d9a4.css",
-    "main.js": "/static/js/main.c402eb5b.js",
+    "main.js": "/static/js/main.fa898f4a.js",
     "static/media/Library.png": "/static/media/Library.faabe1816de7e4d4cff5.png",
     "static/media/brgysanroque.png": "/static/media/brgysanroque.0cb5279482fe8b3a826e.png",
     "static/media/Bicycle.png": "/static/media/Bicycle.9f527427f708c1058d0e.png",
     "static/media/sneakers_ecommerce.png": "/static/media/sneakers_ecommerce.938ab2e45637aa420d07.png",
     "static/media/Tyer_CV.pdf": "/static/media/Tyer_CV.e014cc230067c93c5bd3.pdf",
-    "static/media/tyer.png": "/static/media/tyer.7f0a84a6f31f84ef77c3.png",
+    "static/media/tyer.jpg": "/static/media/tyer.e908ca74a9c17e6e01dd.jpg",
     "index.html": "/index.html",
     "main.e825d9a4.css.map": "/static/css/main.e825d9a4.css.map",
-    "main.c402eb5b.js.map": "/static/js/main.c402eb5b.js.map"
+    "main.fa898f4a.js.map": "/static/js/main.fa898f4a.js.map"
   },
   "entrypoints": [
     "static/css/main.e825d9a4.css",
-    "static/js/main.c402eb5b.js"
+    "static/js/main.fa898f4a.js"
   ]
 }
